@@ -1,10 +1,9 @@
 # Excel: Working Faster and Smarter
 
 * [About the trainer](#about-the-trainer)
-* [Agenda](#agenda)
-* [Speed](#speed)
-* [Features and function](#features-and-functions)
+* [Features and functions](#features-and-functions)
 * [Macros and VBA](#macros-and-vba)
+* [Speed](#speed)
 
 ## About the trainer
 * Auditor for 3 years
@@ -15,24 +14,6 @@
     * Due diligence checks
 * Software developer for 1 month
     * Task automation in Python and Javascript
-
-## Agenda
-
-* Hand-on practice
-    1. Features and Functions
-        * Formatting soft copies
-        * Formulas and functions
-        * If logic
-        * Pivot tables
-        * Vlookup
-        * Conditional formatting
-        * Charts
-        * Goal seek
-    2. Macros and VBA
-    3. Speed
-        * Navigation
-        * Features
-        * Macros
 
 ## Features and Functions
 * Formatting soft copies
@@ -56,7 +37,7 @@
 1. Navigation
     * `ctrl/cmd + direction`
     * `shift + direction`
-2. Keyboard over mouse
+2. Keyboard over mouse (windows)
     * `alt` and observe
 3. Macros
 
