@@ -12,8 +12,8 @@
     * Client database
     * Billing of hundreds of client fees
     * Due diligence checks
-* Software developer for 1 month
-    * Task automation in Python and Javascript
+* Software developer for 4 month
+    * Data analysis and data visualization in Python and Javascript
 
 ## Features and Functions
 * Formatting soft copies
