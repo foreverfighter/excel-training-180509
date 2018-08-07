@@ -5,16 +5,6 @@
 * [Macros and VBA](#macros-and-vba)
 * [Speed](#speed)
 
-## About the trainer
-* Auditor for 3 years
-    * Full-time Excel
-* Wealth management professional for 2 years
-    * Client database
-    * Billing of hundreds of client fees
-    * Due diligence checks
-* Software developer for 4 month
-    * Data analysis and data visualization in Python and Javascript
-
 ## Features and Functions
 * Formatting soft copies
 * Formulas and functions
